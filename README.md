@@ -1,2 +1,2 @@
-# java-solid-principles
-Principles SOLID java samples
+# SOLID Principles
+SOLID Principles
